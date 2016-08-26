@@ -1,0 +1,1 @@
+mysqlimport --ignore-lines=1 --fields-terminated-by=, --fields-optionally-enclosed-by=\" --columns=asset_un,status,entry_date --local -u root -p aimsio C:\Users\kbala\Desktop\AIMSIO\signal_detection.csv
